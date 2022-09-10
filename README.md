@@ -1,8 +1,8 @@
 # Smart-City-using-IOT
--Installing process -> Install Ardino 
+`Install` Ardino 
 
--Sensors Used-> IR Sensor, ULTRASONIC Sensor, LDR Sensor, Water Sensor.
+`Sensors Used`-> IR Sensor, ULTRASONIC Sensor, LDR Sensor, Water Sensor.
 
--Programming Language -> C 
+`Programming Language` -> C 
 
 For more details go through the report.
